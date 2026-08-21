@@ -1,0 +1,18 @@
+[submodule "apps/qtcloud-entrep"]
+	path = apps/qtcloud-entrep
+	url = https://github.com/quanttide/qtcloud-entrep.git
+[submodule "packages/quanttide-entrep-toolkit"]
+	path = packages/quanttide-entrep-toolkit
+	url = https://github.com/quanttide/quanttide-entrep-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-entrepreneurship-management.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-entrepreneurship-management.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-entrepreneurship-management.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-entrepreneurship-management.git
