@@ -4,9 +4,9 @@
 [submodule "packages/quanttide-entrep-toolkit"]
 	path = packages/quanttide-entrep-toolkit
 	url = https://github.com/quanttide/quanttide-entrep-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-entrepreneurship-management.git
+[submodule "examples/quanttide-entrep-lab"]
+	path = examples/quanttide-entrep-lab
+	url = https://github.com/quanttide/quanttide-entrep-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-entrepreneurship-management.git

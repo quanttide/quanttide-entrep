@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-entrep-lab`（仓 quanttide-laboratory-of-entrepreneurship-management → quanttide-entrep-lab）
+
+
 ### 新增
 
 - 注册子模块：`apps/qtcloud-entrep`、`packages/quanttide-entrep-toolkit`、`examples/default`
