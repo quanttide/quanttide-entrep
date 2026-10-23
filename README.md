@@ -63,7 +63,7 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-entrep` | QtCloud 创业管理云 (git submodule) |
-| `packages/quanttide-entrep-toolkit` | 创业管理工具集 (git submodule) |
+| `packages/quanttide-entrep-toolkit` | 创业管理标准库 (git submodule) |
 | `examples/quanttide-entrep-lab` | 创业管理实验室 (git submodule → quanttide-entrep-lab) |
 | `data/context` | 创业管理语境 (git submodule → quanttide-context-of-entrepreneurship-management) |
 | `data/journal` | 创业管理日志 (git submodule → quanttide-journal-of-entrepreneurship-management) |
